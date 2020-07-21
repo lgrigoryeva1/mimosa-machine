@@ -1,5 +1,5 @@
 # mimosa-machine
-A mimosa machine that is controlled with an Ikea Trådfri remote.
+A machine that is controlled with an Ikea Trådfri remote for making mimosas.
 Built with Raspberry Pi, Zigbee, MQTT.
 
 Requirements:
